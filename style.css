@@ -167,7 +167,7 @@ form select  {
         }
 
         .text-on-woddy {
-            position:sticky;
+            position:fixed;
         
         bottom:430px;
         left:10px;
@@ -185,7 +185,7 @@ form select  {
         }
 
     .text-on-buzz{
-        position:sticky;
+        position:fixed;
         
         bottom:435px;
         right:6px;
